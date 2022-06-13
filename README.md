@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobiasEnholmX
 - 👀 I’m interested in games
-- 💞️ I’m looking find the smartest programmers to join our startup.
+- 💞️ I’m looking to connect with people interested in Rust 🦀
 - 📫 How to reach me: tobias@dims.gg
 
 <!---
